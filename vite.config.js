@@ -6,7 +6,7 @@ export default defineConfig({
     plugins: [react()],
     // Base path for GitHub Pages deployment
     // Must match your repository name
-    base: '/tuyen-dung-mi-cay/',
+    base: '/mi-cay-bosan-recruitment/',
     build: {
         outDir: 'dist',
         sourcemap: false,
